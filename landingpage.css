@@ -92,7 +92,7 @@ body {
   .hero {
     position: relative;
     height: 100vh;
-    background: url(images/baackground\ alternative\ 2.jpg) center center / cover no-repeat !important;
+    background: url(images/easeways-background.png) center center / cover no-repeat !important;
     color: white;
     display: flex;
     font-weight: lighter;
